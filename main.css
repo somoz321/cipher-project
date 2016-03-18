@@ -1,0 +1,18 @@
+h1 {
+    color:white;
+}
+
+img{
+    margin-top:100px;
+    width:50%;
+    border-radius:50%;
+}
+
+body{
+    font-family:"Monsterrat";
+    text-align:center;
+    background-color:#6163D3;
+}
+i {
+    font-size:250%;
+}
